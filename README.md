@@ -1,8 +1,6 @@
-<h2> Hi, I'm Ley! <img src="https://giphy.com/gifs/xonOzxf2M8hNu" width="50"></h2>
+<h2> Hi, I'm Ley! <img src="https://media.giphy.com/media/vMSV8Kx5zbcJOHFmbv/giphy.gif" width="50"></h2>
 
-<img align='right' src="https://media2.giphy.com/media/xonOzxf2M8hNu/giphy.gif" width="230">
-
-
+<img align='right' src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="230">
 
 <p><em>Junior Applications Developer at <a href="https://www.lb.com/">L Brands</a></br>
 </em></p>
