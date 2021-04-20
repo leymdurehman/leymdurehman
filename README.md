@@ -1,4 +1,7 @@
-<h2> Hi, I'm Ley! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Ley! <img src="https://giphy.com/gifs/xonOzxf2M8hNu" width="50"></h2>
+
+<img align='right' src="https://media2.giphy.com/media/xonOzxf2M8hNu/giphy.gif" width="230">
+
 
 
 <p><em>Junior Applications Developer at <a href="https://www.lb.com/">L Brands</a></br>
@@ -19,13 +22,28 @@
  <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff"/>
  <img src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code"/>
  
+ 
+ 
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
 ```
 
+**Socials:**
 
-```
-
-
-**Skills:**  
+<a href="https://www.linkedin.com/in/leymaan-abdurehman/">
+<img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%23336791?logo=LinkedIn">
+</a>
 
 <!---
 leymdurehman/leymdurehman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
