@@ -8,7 +8,8 @@
 
 >  <i> I have fervent appreciation for learning, educating, and discovering new things!
 
------ my (current) stack -----
+ my (current) stack 
+
  <img src="https://img.shields.io/badge/-Java-orange?logo=Java"/>
  <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A"/>
  <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff"/>
