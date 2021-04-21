@@ -6,6 +6,7 @@
 >  <p><em>Junior Applications Developer at <a href="https://www.lb.com/">L Brands</a></br>
 </em></p> 
  
+ <br>
 
  <h6 align="center">my (current) stack</h6>
  <div align="center">
@@ -18,6 +19,7 @@
  <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff"/>
  <img src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code"/>
 </div> 
+ 
  
 <h1> <br> </h1>
 
@@ -35,7 +37,7 @@
 
  ```
 
-<h1> </h1>
+<h1> <br> </h1>
 
 <div align= "right">
 
