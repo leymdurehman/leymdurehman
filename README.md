@@ -1,4 +1,4 @@
-<h2 align="center"> Hi, I'm Ley! <img src="https://media.giphy.com/media/vMSV8Kx5zbcJOHFmbv/giphy.gif" width="50"></h2>
+<h1 align="center"> Hi, I'm Ley! <img src="https://media.giphy.com/media/VoCGK6WKwX1xm/giphy.gif" width="65"></h1>
 
 <img align='right' src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="230">
 
@@ -52,4 +52,5 @@
 <!---
 leymdurehman/leymdurehman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+src="https://media.giphy.com/media/vMSV8Kx5zbcJOHFmbv/giphy.gif"
 --->
