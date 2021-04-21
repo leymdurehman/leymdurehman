@@ -41,7 +41,7 @@
 <div align= "right">
 
 <p>
-<h6> socials<img src="https://media.giphy.com/media/llQMjpdCwjdrVGzz1d/source.gif" width="20"/></h6>
+<h5> socials<img src="https://media.giphy.com/media/llQMjpdCwjdrVGzz1d/source.gif" width="20"/></h5>
 
 </p>
 
