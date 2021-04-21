@@ -41,7 +41,7 @@
 <div align= "right">
 
 <p>
-<h6> socials<img src="https://media.giphy.com/media/5tfqzU3LJ1UKKfhLLU/giphy.gif" width="50"/></h6>
+<h6> socials<img src="https://media.giphy.com/media/SVfJQ8meXjCf0Z8ZVE/source.gif" width="50"/></h6>
 
 </p>
 
@@ -64,4 +64,5 @@
 leymdurehman/leymdurehman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 src="https://media.giphy.com/media/vMSV8Kx5zbcJOHFmbv/giphy.gif"
+https://media.giphy.com/media/5tfqzU3LJ1UKKfhLLU/giphy.gif
 --->
