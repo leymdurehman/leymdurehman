@@ -24,7 +24,7 @@
  ```javascript
  const ley = {
   pronouns: "she" | "her",
-  about: "Ethiopian-Canadian with a fervent appreciation for learning new things",
+  about: "An Ethiopian-Canadian gal with a fervent appreciation for learning new things",
   hobbies: ["tutoring", "cooking", "reading"],
   tutor: ["Mathematics", "Biology", "French", "ESL"],
   funFact: "I've published some cool research on biological rhythms!",
