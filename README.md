@@ -39,6 +39,10 @@
 
 
 <div align= "right">
+ <p>
+<h6> socials</h6>
+</p>
+
 
 <p>
 <img src="https://media.giphy.com/media/5tfqzU3LJ1UKKfhLLU/giphy.gif" width="70"/>
