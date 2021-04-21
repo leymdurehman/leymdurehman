@@ -1,13 +1,13 @@
-<h2> Hi, I'm Ley! <img src="https://media.giphy.com/media/vMSV8Kx5zbcJOHFmbv/giphy.gif" width="50"></h2>
+<h2 align="center"> Hi, I'm Ley! <img src="https://media.giphy.com/media/vMSV8Kx5zbcJOHFmbv/giphy.gif" width="50"></h2>
 
 <img align='right' src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="230">
 
-<p><em>Junior Applications Developer at <a href="https://www.lb.com/">L Brands</a></br>
-</em></p>
+
 
  
 
->  <i> I have fervent appreciation for learning, educating, and discovering new things!
+>  <p><em>Junior Applications Developer at <a href="https://www.lb.com/">L Brands</a></br>
+</em></p> <i> I have fervent appreciation for learning, educating, and discovering new things!
 <div align="center">
  <p style="text-align:center">my (current) stack</p>
  
