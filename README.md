@@ -37,7 +37,7 @@
 
 <div align= "right">
 
-<img src="https://media.giphy.com/media/llQMjpdCwjdrVGzz1d/source.gif" width="25"/>
+<img src="https://media.giphy.com/media/llQMjpdCwjdrVGzz1d/source.gif" width="20"/>
 <a href="https://www.linkedin.com/in/leymaan-abdurehman/">
 <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%23336791?logo=LinkedIn">
 </a>
