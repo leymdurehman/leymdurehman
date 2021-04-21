@@ -36,7 +36,7 @@
 
 
 <div align= "right">
-<h6> socials</h6>
+<h6 align= "right">socials</h6>
 <img src="https://media.giphy.com/media/5tfqzU3LJ1UKKfhLLU/giphy.gif" width="70"/>
 <a href="https://www.linkedin.com/in/leymaan-abdurehman/">
 <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%23336791?logo=LinkedIn">
