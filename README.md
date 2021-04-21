@@ -40,15 +40,15 @@
 
 <div align= "right">
 <p> <b>socials</b> <img src="https://media.giphy.com/media/llQMjpdCwjdrVGzz1d/source.gif" width="12"/>: </p>
-<a align= "right" href="https://www.linkedin.com/in/leymaan-abdurehman/">
+<a href="https://www.linkedin.com/in/leymaan-abdurehman/">
 <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%23336791?logo=LinkedIn">
 </a>
 
-<a align= "right" href="https://www.codewars.com/users/ley_/">
+<a href="https://www.codewars.com/users/ley_/">
 <img alt="Codewars" src="https://img.shields.io/badge/-Codewars-darkred?logo=codewars">
 </a>
 
-<a align= "right" href="https://www.researchgate.net/profile/Leymaan-Abdurehman">
+<a href="https://www.researchgate.net/profile/Leymaan-Abdurehman">
 <img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-white?logo=ResearchGate">
 </a>
 
