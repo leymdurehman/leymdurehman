@@ -37,15 +37,16 @@
 
 
 <img align= "left" src="https://media.giphy.com/media/5tfqzU3LJ1UKKfhLLU/giphy.gif" width="100"/>
-
+<h7 align= "left" >add me</h7>
 
 <a href="https://www.linkedin.com/in/leymaan-abdurehman/">
 <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%23336791?logo=LinkedIn">
 </a>
+
 <a href="https://www.codewars.com/users/ley_/">
 <img alt="Codewars" src="https://img.shields.io/badge/-Codewars-darkred?logo=codewars">
 </a>
-<h6 align= "left" >add me</h6>
+
 
 <!---
 leymdurehman/leymdurehman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
