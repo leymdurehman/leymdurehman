@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Ley! <img src="https://media.giphy.com/media/VoCGK6WKwX1xm/giphy.gif" width="65"></h1>
+<h1 align="left"> Hi, I'm Ley! <img src="https://media.giphy.com/media/VoCGK6WKwX1xm/giphy.gif" width="65"></h1>
 
 <img align='right' src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="230">
 
@@ -34,9 +34,9 @@
  ```
 
 
-<h6> <img align= "left" src="https://media.giphy.com/media/5tfqzU3LJ1UKKfhLLU/giphy.gif" width="70"/> socials</h6>
+<h6 align = "right"> <img align= "right" src="https://media.giphy.com/media/5tfqzU3LJ1UKKfhLLU/giphy.gif" width="70"/> socials</h6>
 
-<div align>
+<div align= "right">
 <a href="https://www.linkedin.com/in/leymaan-abdurehman/">
 <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%23336791?logo=LinkedIn">
 </a>
