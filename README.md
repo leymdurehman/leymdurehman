@@ -34,16 +34,11 @@
  ```
 
 
-<div align= "right">
-
-
-<p align= "right"> : </p>
-
-</div>
 
 <div align= "right">
- <b>socials</b>
+<b>socials</b>
 <img src="https://media.giphy.com/media/llQMjpdCwjdrVGzz1d/source.gif" width="12"/>
+ :
 <a href="https://www.linkedin.com/in/leymaan-abdurehman/">
 <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%23336791?logo=LinkedIn">
 </a>
