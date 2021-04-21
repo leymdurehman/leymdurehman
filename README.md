@@ -40,13 +40,8 @@
 
 <div align= "right">
 
-<p align= "right" >
-<h5  align= "center" > socials <img src="https://media.giphy.com/media/llQMjpdCwjdrVGzz1d/source.gif" width="12"/></h5>
-
-</p>
-
 <a align= "right" href="https://www.linkedin.com/in/leymaan-abdurehman/">
- 
+ <h5> socials <img src="https://media.giphy.com/media/llQMjpdCwjdrVGzz1d/source.gif" width="12"/></h5>
 <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%23336791?logo=LinkedIn">
 </a>
 
