@@ -39,7 +39,7 @@
 
 
 <div align= "right">
-<h6 align= "right">socials</h6>
+<h6 align= "left">socials</h6>
 
 
 <a href="https://www.linkedin.com/in/leymaan-abdurehman/">
