@@ -40,9 +40,9 @@
 
 <div align= "right">
 
-<a>
+<p>
 <h6>socials</h6>
-</a>
+</p>
 
 <a href="https://www.linkedin.com/in/leymaan-abdurehman/">
  
