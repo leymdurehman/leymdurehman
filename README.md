@@ -10,7 +10,7 @@
  <h6 align="center">my (current) stack</h6>
  <div align="center">
  <img src="https://img.shields.io/badge/-Java-orange?logo=Java"/>
- <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A"/>
+ <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=JavaScript&logoColor=000000"/>
  <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff"/>
  <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3"/>
  <img src="https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=Vue.js"/>
