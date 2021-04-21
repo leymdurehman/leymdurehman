@@ -22,8 +22,9 @@
  
  
 <h1> <br> </h1>
-
-
+<img align='left' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/source.gif" width="230">
+ 
+<h3> <br> </h3>
  
  ```javascript
  const ley = {
