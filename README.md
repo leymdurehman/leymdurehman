@@ -34,7 +34,7 @@
 
 <h6> <img align= "left" src="https://media.giphy.com/media/5tfqzU3LJ1UKKfhLLU/giphy.gif" width="70"/> socials</h6>
 
-<div align= "left">
+<div align>
 <a href="https://www.linkedin.com/in/leymaan-abdurehman/">
 <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%23336791?logo=LinkedIn">
 </a>
@@ -42,6 +42,11 @@
 <a href="https://www.codewars.com/users/ley_/">
 <img alt="Codewars" src="https://img.shields.io/badge/-Codewars-darkred?logo=codewars">
 </a>
+
+<a href="https://www.researchgate.net/profile/Leymaan-Abdurehman">
+<img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-white?logo=ResearchGate">
+</a>
+
 </div>
 
 <!---
