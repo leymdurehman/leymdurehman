@@ -36,6 +36,10 @@
 <a href="https://www.linkedin.com/in/leymaan-abdurehman/">
 <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%23336791?logo=LinkedIn">
 </a>
+<a href="https://www.codewars.com/users/ley_/">
+<img alt="Codewars" src="https://img.shields.io/badge/-Codewars-darkred?logo=codewars">
+</a>
+
 
 <!---
 leymdurehman/leymdurehman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
