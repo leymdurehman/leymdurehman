@@ -22,9 +22,11 @@
  
  
 <h1> <br> </h1>
-<img align='left' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/source.gif" width="230">
+<img align="left" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/source.gif" width="230">
  
-<h3> <br> </h3>
+<h3 alight = "center"> <br> </h3>
+ 
+ <div align="right">
  
  ```javascript
  const ley = {
@@ -37,7 +39,7 @@
 }
 
  ```
-
+</div>
 <h1> <br> </h1>
 
 <div align= "right">
