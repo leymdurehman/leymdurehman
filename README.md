@@ -39,9 +39,8 @@
 
 
 <div align= "right">
-
+<h5> socials <img src="https://media.giphy.com/media/llQMjpdCwjdrVGzz1d/source.gif" width="12"/></h5>
 <a align= "right" href="https://www.linkedin.com/in/leymaan-abdurehman/">
- <h5> socials <img src="https://media.giphy.com/media/llQMjpdCwjdrVGzz1d/source.gif" width="12"/></h5>
 <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%23336791?logo=LinkedIn">
 </a>
 
