@@ -4,7 +4,7 @@
 
 
 >  <p><em>Junior Applications Developer at <a href="https://www.lb.com/">L Brands</a></br>
-</em></p> <i> I have fervent appreciation for learning, educating, and discovering new things!
+</em></p>
  
 
  <p align="center">my (current) stack</p>
