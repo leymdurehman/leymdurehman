@@ -26,7 +26,7 @@
   hobbies: ["tutoring", "cooking", "reading"],
   tutor: ["Mathematics", "Biology", "French", "ESL"],
   funFact: "I've published some cool research on biological rhythms!"
-  note: "Feel free to reach out with any questions!"
+  noteToYou: "Feel free to reach out with any questions!"
 }
 
  ```
