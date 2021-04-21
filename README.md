@@ -38,7 +38,7 @@
 
 
 
-<div align= "center">
+<div align= "right">
 
 <p align= "right" >
 <h5  align= "center" > socials <img src="https://media.giphy.com/media/llQMjpdCwjdrVGzz1d/source.gif" width="12"/></h5>
