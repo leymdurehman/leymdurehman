@@ -7,7 +7,7 @@
 </em></p>
  
 
- <p align="center">my (current) stack</p>
+ <h6 align="center">my (current) stack</h6>
  <div align="center">
  <img src="https://img.shields.io/badge/-Java-orange?logo=Java"/>
  <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A"/>
