@@ -34,9 +34,12 @@
  ```
 
 
+<div align= "right">
 
 
+<p align= "right"> <b>socials</b> <img src="https://media.giphy.com/media/llQMjpdCwjdrVGzz1d/source.gif" width="12"/>: </p>
 
+</div>
 
 <div align= "right">
 
@@ -52,8 +55,7 @@
 <img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-white?logo=ResearchGate">
 </a>
 
-</div>
-<p align= "right"> <b>socials</b> <img src="https://media.giphy.com/media/llQMjpdCwjdrVGzz1d/source.gif" width="12"/>: </p>
+
 <!---
 leymdurehman/leymdurehman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
