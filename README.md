@@ -39,7 +39,7 @@
 
 
 <div align= "right">
-<p> <b>socials</b> <img src="https://media.giphy.com/media/llQMjpdCwjdrVGzz1d/source.gif" width="12"/>: </p>
+
 <a href="https://www.linkedin.com/in/leymaan-abdurehman/">
 <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%23336791?logo=LinkedIn">
 </a>
@@ -53,7 +53,7 @@
 </a>
 
 </div>
-
+<p> <b>socials</b> <img src="https://media.giphy.com/media/llQMjpdCwjdrVGzz1d/source.gif" width="12"/>: </p>
 <!---
 leymdurehman/leymdurehman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
