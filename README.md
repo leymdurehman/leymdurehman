@@ -4,7 +4,7 @@
 
 
 >  <p><em>Junior Applications Developer at <a href="https://www.lb.com/">L Brands</a></br>
-</em></p>
+</em></p> 
  
 
  <h6 align="center">my (current) stack</h6>
@@ -19,7 +19,16 @@
  <img src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code"/>
 </div> 
  
- 
+ ```javascript
+ const ley = {
+  pronouns: "she" | "her",
+  about: "Ethiopian-Canadian with a fervent appreciation for learning new things",
+  hobbies: ["tutoring", "cooking", "reading"],
+  tutor: [Mathematics, Biology, French, ESL],
+  note: "Feel free to reach out with any questions!"
+}
+
+ ```
 
 
 **Socials:**
