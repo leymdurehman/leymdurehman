@@ -26,7 +26,7 @@
  
 <h3 alight = "center"> <br> </h3>
  
- <div align="right">
+
  
  ```javascript
  const ley = {
@@ -39,7 +39,7 @@
 }
 
  ```
-</div>
+
 <h1> <br> </h1>
 
 <div align= "right">
