@@ -17,7 +17,10 @@
  <img src="https://img.shields.io/badge/-PostgreSQL-%23336791?logo=postgresql"/>
  <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff"/>
  <img src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code"/>
+ <br>
 </div> 
+ 
+ 
  
  ```javascript
  const ley = {
