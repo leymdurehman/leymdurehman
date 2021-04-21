@@ -53,7 +53,7 @@
 </a>
 
 </div>
-<p> <b>socials</b> <img src="https://media.giphy.com/media/llQMjpdCwjdrVGzz1d/source.gif" width="12"/>: </p>
+<p align= "right"> <b>socials</b> <img src="https://media.giphy.com/media/llQMjpdCwjdrVGzz1d/source.gif" width="12"/>: </p>
 <!---
 leymdurehman/leymdurehman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
