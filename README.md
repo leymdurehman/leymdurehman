@@ -32,7 +32,7 @@
  ```
 
 
-<h6 align= "left" > <img src="https://media.giphy.com/media/5tfqzU3LJ1UKKfhLLU/giphy.gif" width="70"/> <img src="https://media.giphy.com/media/dyYHdXPVMOhpgHN3Ns/giphy.gif" width="45"/> add me</h6>
+<h6> <img src="https://media.giphy.com/media/5tfqzU3LJ1UKKfhLLU/giphy.gif" width="70"/> add me</h6>
 
 <a href="https://www.linkedin.com/in/leymaan-abdurehman/">
 <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%23336791?logo=LinkedIn">
