@@ -3,14 +3,12 @@
 <img align='right' src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="230">
 
 
-
- 
-
 >  <p><em>Junior Applications Developer at <a href="https://www.lb.com/">L Brands</a></br>
 </em></p> <i> I have fervent appreciation for learning, educating, and discovering new things!
-<div align="center">
- <p style="text-align:center">my (current) stack</p>
  
+
+ <p align="center">my (current) stack</p>
+ <div align="center">
  <img src="https://img.shields.io/badge/-Java-orange?logo=Java"/>
  <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A"/>
  <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff"/>
@@ -19,7 +17,7 @@
  <img src="https://img.shields.io/badge/-PostgreSQL-%23336791?logo=postgresql"/>
  <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff"/>
  <img src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code"/>
- 
+</div> 
  
  
 
