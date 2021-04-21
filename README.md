@@ -24,7 +24,7 @@
   pronouns: "she" | "her",
   about: "Ethiopian-Canadian with a fervent appreciation for learning new things",
   hobbies: ["tutoring", "cooking", "reading"],
-  tutor: [Mathematics, Biology, French, ESL],
+  tutor: ["Mathematics", "Biology", "French", "ESL"],
   note: "Feel free to reach out with any questions!"
 }
 
