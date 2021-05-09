@@ -1,4 +1,4 @@
-<h1 align="left"> Hi, I'm Ley <img src="https://im4.ezgif.com/tmp/ezgif-4-e5c9719172ea.gif" width="45"></h1>
+<h1 align="left"> Hi, I'm Ley <img src="https://media.giphy.com/media/yxfjrW0KkQ3B3cPTOc/giphy.gif" width="25"></h1>
 
 <img align='right' src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="230">
 
