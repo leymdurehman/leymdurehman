@@ -3,7 +3,7 @@
 <img align='right' src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="230">
 
 
->  <p><em>Junior Applications Developer at <a href="https://www.lb.com/">L Brands</a></br>
+>  <p><em>Applications Developer at <a href="https://www.lb.com/">L Brands</a></br>
 </em></p> 
  
  <br>
